@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/
-https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons-outline/
+https://raw.githubusercontent.com/TiMXL73/PogoAssets/main/uicons/
+https://raw.githubusercontent.com/TiMXL73/PogoAssets/main/uicons-outline/
